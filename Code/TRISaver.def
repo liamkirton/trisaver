@@ -1,0 +1,5 @@
+NAME TRI.EXE
+
+EXPORTS
+	ScreenSaverProc
+	ScreenSaverConfigureDialog

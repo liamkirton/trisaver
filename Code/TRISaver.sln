@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TRISaver", "TRISaver.vcproj", "{49300180-18F2-4F32-BA6C-DEEDB7B86A48}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{49300180-18F2-4F32-BA6C-DEEDB7B86A48}.Debug.ActiveCfg = Debug|Win32
+		{49300180-18F2-4F32-BA6C-DEEDB7B86A48}.Debug.Build.0 = Debug|Win32
+		{49300180-18F2-4F32-BA6C-DEEDB7B86A48}.Release.ActiveCfg = Release|Win32
+		{49300180-18F2-4F32-BA6C-DEEDB7B86A48}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
